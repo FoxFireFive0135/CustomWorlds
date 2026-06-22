@@ -1,0 +1,30 @@
+Creating a custom world is pretty simple.
+
+First, extract the "Custom World Template.zip" file, this contains a premade unity project for you to use.
+I recommend using Unity 6000.0, but you might be able to use 6000.3 or higher, I haven't tested it with anything other
+than 6000.0.
+
+To open the project, just open Unity Hub and press "Add" and then "Add project from disk", and navigate to the
+extracted "Custom World Template" folder that contains a "Custom World Template.sln" file.
+
+Once it's open, you can start creating your own world!!
+
+
+
+I have installed the 3D world building package, which contains some useful tools for you to use.
+I highly recommend using a URP unlit shader, unless you want to try to create your own shader, as URP lit does not
+work with Logic World, and I cannot figure out how to make it work.
+
+All scenes must be added to the "scenes" asset bundle, and everything else goes into the "assets" asset bundle.
+If you don't know how to add things to an asset bundle, google it.
+
+Once you have created a nice world, go to the "Tools" menu and go to "Build".
+There you will find four buttons. I don't have to explain them.
+When you use one, depending on the amount of stuff you have, it might take a long time to finish, but once it's
+finished, you can find the output of it in a folder called "WorldOutput" in the projects root folder where the sln file is at.
+
+To actually create a usable world, you can use the "ExampleWorld.zip" world as a base, just rename everything inside it, and replace the asset bundles inside of the worlds folder with the asset bundles from your WorldOutput folder.
+The asset bundles you need to replace are named "assets" and "scenes".
+
+
+You also have to change the names inside the .jecs file, the only name that needs to match is the scene name.

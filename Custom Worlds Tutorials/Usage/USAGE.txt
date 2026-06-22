@@ -1,0 +1,20 @@
+First, go to your Logic World GameData folder, which for me is 
+located at "C:\Program Files (x86)\Steam\steamapps\common\Logic World\GameData"
+
+Once you are in that folder, you need to extract the CustomWorlds.zip file, and put its contents
+in your GameData folder.
+
+The extracted folder should be called "CustomWorlds" and should contain 4 things, a manifest.jecs, and three folders.
+
+once you have done that, you can now install amazing new custom worlds!!!!!
+
+-----------------------------------------------------------------------------------------------------------------------
+
+To use a custom world, you need to first download one.
+You can use the included "ExampleWorld.zip" if you don't have any, or if none exist, since this mod is so new.
+
+First, un-zip the file, and put the extracted folder somewhere on your pc, like your desktop.
+Inside that folder should be two folders called "worlds" and "worldtypes", you need to copy and paste these into
+the CustomWorlds folder in your GameData folder. 
+
+That's all you have to do to install a custom world; it's pretty simple.

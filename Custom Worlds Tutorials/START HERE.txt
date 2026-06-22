@@ -1,0 +1,5 @@
+If you want to make your own custom world, go to the "Creation" folder
+If you want to use custom worlds, go to the "Usage" folder
+
+This mod is pretty basic for now, but I plan to allow you to make
+your custom worlds more interactive, like moving platforms and etc

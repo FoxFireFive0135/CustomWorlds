@@ -1,0 +1,6 @@
+gm_flatgrass:
+    SceneName: "gm_flatgrass"
+    PreviewImagePath: "FoxFireFive.CustomWorlds/worldtypes/preview images/gm_flatgrass.png"
+    HasWorldOptions: false
+    IsSecret: false
+    DefaultSpawnPosition: (0, 5, 0)
