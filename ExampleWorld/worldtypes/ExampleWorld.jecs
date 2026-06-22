@@ -1,0 +1,6 @@
+ExampleWorld:
+    SceneName: "ExampleWorld"
+    PreviewImagePath: "FoxFireFive.CustomWorlds/worldtypes/preview images/ExampleWorld.png"
+    HasWorldOptions: false
+    IsSecret: false
+    DefaultSpawnPosition: (0, 5, 0)
